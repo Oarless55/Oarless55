@@ -1,8 +1,11 @@
 # Hello, World! 🌎 I'm Metehan 👋
+# Todoist Stats
+
+<!-- TODO-IST:START -->
+<!-- TODO-IST:END -->
 
 
 
-TODOIST_API_KEY = <14fc3850c27e67911a8409db99e623e7d9dc9ba4>
 - 🔭 I’m currently working on Seicode,Budlum and Samsunemlak 
 - 🌱 I’m currently learning Flutter and think ıts worse than kotlin :(
 - 👯 I’m looking to collaborate on 

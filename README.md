@@ -6,7 +6,7 @@
 
 
 
-- 🔭 I’m currently working on Seicode,Budlum and Samsunemlak 
+- 🔭 I’m currently working on Seicode and Budlum  
 - 🌱 I’m currently learning Flutter and think ıts worse than kotlin :(
 - 👯 I’m looking to collaborate on 
 - 💬 U can ask me about Animes
